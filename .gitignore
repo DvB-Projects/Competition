@@ -1,0 +1,6 @@
+.idea/
+.c9/
+vendor/composer/
+vendor/autoload.php
+composer.json
+php.ini
